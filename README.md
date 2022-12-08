@@ -1,3 +1,5 @@
+# Disciplinas realizadas:
+
 [Introdução à Programação de Computadores - IPC](https://github.com/annaletycia/IPC) <br/>
 [Programação Funcional](https://github.com/annaletycia/PF) <br/>
 [Programação Lógica - Prolog]() <br/>
